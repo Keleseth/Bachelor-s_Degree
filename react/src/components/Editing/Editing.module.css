@@ -1,0 +1,13 @@
+.Editing  {
+    display: flex;
+    
+    justify-content: space-around;
+    
+    
+    
+}
+
+.Editing div {
+    margin-bottom: 40px;
+}
+

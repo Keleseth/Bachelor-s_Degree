@@ -1,0 +1,14 @@
+.header {
+    
+    padding: 10px;
+    background-color: #3fe0e070;
+    width: 893px;
+    height: 79px;
+}
+
+.title {
+    text-align: center;
+    vertical-align: center;
+    font-size: 30px
+}
+

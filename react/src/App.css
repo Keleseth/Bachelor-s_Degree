@@ -1,0 +1,27 @@
+body {
+  background-image: url(https://www.sb.by/upload/resize_cache/slam.image/iblock/97b/855_2000_1/97b73cca71f37e4920de65bb5c0fcbac.jpg) ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+
+.app-wrapper {
+  display: grid;
+  grid-template-columns: 1fr repeat(2, 2fr) 1fr;
+  grid-template-rows: repeat(5, 1fr) ;
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+}
+
+Header { grid-area: 1 / 2 / 2 / 4; }
+Nav { grid-area: 2 / 1 / 5 / 2; }
+.main { grid-area: 2 / 2 / 6 / 6; }
+
+
+
+
+
+
+
+
